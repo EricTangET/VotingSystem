@@ -1,0 +1,12 @@
+/Users/erictang/Projects/VotingSystem/Sandbox/bin/Debug/netcoreapp3.1/Sandbox.deps.json
+/Users/erictang/Projects/VotingSystem/Sandbox/bin/Debug/netcoreapp3.1/Sandbox.runtimeconfig.json
+/Users/erictang/Projects/VotingSystem/Sandbox/bin/Debug/netcoreapp3.1/Sandbox.runtimeconfig.dev.json
+/Users/erictang/Projects/VotingSystem/Sandbox/bin/Debug/netcoreapp3.1/Sandbox.dll
+/Users/erictang/Projects/VotingSystem/Sandbox/bin/Debug/netcoreapp3.1/Sandbox.pdb
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.csprojAssemblyReference.cache
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.AssemblyInfoInputs.cache
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.AssemblyInfo.cs
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.csproj.CoreCompileInputs.cache
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.dll
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.pdb
+/Users/erictang/Projects/VotingSystem/Sandbox/obj/Debug/netcoreapp3.1/Sandbox.genruntimeconfig.cache

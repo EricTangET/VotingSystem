@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{88F8ED66-A9DE-4846-8A9E-D2E7EE65A5A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VotingSystem.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="Sandbox/Program.cs" Line="9" Column="37" />
+      <File FileName="VotingSystem.Tests/UnitTest1.cs" Line="12" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VotingSystem" expanded="True">
+            <Node name="Sandbox" expanded="True" />
+            <Node name="VotingSystem.Tests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VotingSystem.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sandbox PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
